@@ -1,2 +1,0 @@
-Dish Name;Number of Order;Price per item;Total Bill Amount
-dish2;1;40;40
