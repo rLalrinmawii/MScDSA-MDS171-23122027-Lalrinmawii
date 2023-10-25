@@ -25,3 +25,4 @@ Email: r.lalrimawii@msds.christuniversity.in
 |8.|18-09-23|lab08|Multiplication of Matrix |[Lab08](https://github.com/rLalrinmawii/MScDSA-MDS171-23122027-Lalrinmawii/blob/3fa7922af88e18b2f26753139bc9a4f8a0388d60/lab08.ipynb)|
 |9.|18-09-23|CAC1|Environmental Protection and Wildlife Conservation|[CAC1](https://github.com/rLalrinmawii/MScDSA-MDS171-23122027-Lalrinmawii/blob/6031a146a77f2abaeda5b4ac8f4fb3d7a69bcacb/CAC.ipynb)|
 |10.|22-09-23|lab09|To create a CSV FIle for Expense/Income and problems associated with it|[Lab09](https://github.com/rLalrinmawii/MScDSA-MDS171-23122027-Lalrinmawii/tree/8501a68f01d15db960c0fa2a1885e8885f2e0a9b/Lab09)|
+|11.|25-10-23|CAC2|Solving Paperwork Puzzles|[CAC2](https://github.com/rLalrinmawii/MScDSA-MDS171-23122027-Lalrinmawii/blob/51a57ad197872df2a98c67cef1b8644442f6eb1b/CAC2.ipynb)|
